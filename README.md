@@ -8,6 +8,16 @@ HARC is both a **live commercial cleaning brand** serving Greater London and a *
 
 ---
 
+
+## Marketing & public surfaces
+
+| Surface | URL |
+| --- | --- |
+| **Marketing website** | [harcsolutions.com](https://harcsolutions.com) |
+| **Customer / ops app** | [app.harcsolutions.com](https://app.harcsolutions.com) |
+| **TUXX studio** | [tuxxagency.com](https://tuxxagency.com) |
+| **Mustard Seed Group** | [mustardseed.group](https://mustardseed.group) |
+
 ## Two layers, one product
 
 | Layer | What it is |
